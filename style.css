@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+.body {
+    background-color: #232745;
+}
+.navbarTop {
+    background-color: #2D3257;
+}
+.jumbotron {
+    background-color: #232745;
+    background-size: cover;
+    height: 770px;
+    text-align: left;
+    margin-top: -170px;
+    text-align: center;
+}
+.li .instance {
+    margin-right: 50px;
+}
+.button-daftar {
+    margin-left: 10px;
+}
+
+/* color: #313864 */
+
+.jumbotron .display-4 {
+    color: white;
+    margin-top: 200px;
+}
+.jumbotron p {
+    color: white;
+}
+ 
+/*card */
+.card {
+    padding: 0;
+    margin: 120px;
+    margin-top: 600px;
+    margin-left: 196px;
+    margin-right: 160px;
+    box-sizing: border-box;
+    background-color: #2A92B5;
+    font-family: 'Montserrat', sans-serif;
+}
+.card .course {
+    background-color: white;
+    margin: 2px 2px 2 px 2px;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px rgba(0,0,0,.2);
+    display: flex;
+    max-width: 100%;
+    overflow: hidden;
+    width: 275px;
+    /* top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);  */
+}
+
+.banner-header {
+    margin-top: -725px;
+    margin-inline: 200px;
+}
+
+.card-button {
+    margin-top: -800px;
+}
+
+.card-button2 {
+    margin-top: -500px;
+}
+
+.card-color {
+    background-color: rgb(23, 66, 105);
+}
+
+.text-color {
+    color: white;
+}
